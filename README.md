@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/ppk-1996/time-tracking-app)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Time Tracking App Frontend](https://time-tracking-app.vercel.app/)
 
 ## My process
 
